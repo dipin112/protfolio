@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(15, 123, 238);
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-image: url("download.jpg");
+    background-size: cover;
+}
